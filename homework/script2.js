@@ -49,10 +49,10 @@
 // }
 
 // задача 6
-let number = 6;
-if (number > 0 && number % 2 === 0) {
-    console.log("Число парне і додатне");
-  }
+// let number = 6;
+// if (number > 0 && number % 2 === 0) {
+//     console.log("Число парне і додатне");
+//   }
 
 // задача 7
 // let day = 'Saturday';
